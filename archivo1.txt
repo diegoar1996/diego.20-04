@@ -1,3 +1,5 @@
 Mi primer comentario para commit 1
 
-Este es mi segundo comentario para commit 2
+Este es mi segundo comentario para commit 2 1
+
+Este es mi tercer comentario desde rama1
